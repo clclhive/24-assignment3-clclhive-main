@@ -1,3 +1,8 @@
+# 실행 방법
+1. 루트 디렉토리에 `.env` 파일을 생성하세요.
+2. 아래 내용을 `.env` 파일에 복사해 넣으세요:
+   REACT_APP_API_KEY=706f6f6c6b636c6831313448794b7551
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
